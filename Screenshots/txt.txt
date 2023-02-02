@@ -1,0 +1,2 @@
+Here are some examples of what the app is supposed to do. 
+Basically it'll readf the xml file and display the nextlist accordingly
