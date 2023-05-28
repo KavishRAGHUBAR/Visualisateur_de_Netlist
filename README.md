@@ -4,6 +4,8 @@ Date : December 2022
 
 Author : Kavish RAGHUBAR et Weiyi GONG
 
+This code/app will parse the XML files (electronic circuit), set up the components based on the hierarchy of classes. Then display the netlist accordingly.
+
 Install QT5 :
 
 `sudo apt update`
@@ -31,7 +33,6 @@ Run with :
 
 `./tme810`
 
-Basically the code/app will parse the XML files (electronic circuit), set up the components based on the hierarchy of classes. Then display the netlist accordingly.
 
 Screenshots : 
 **AND2**
