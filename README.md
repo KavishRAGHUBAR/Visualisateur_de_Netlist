@@ -52,7 +52,9 @@ Screenshots :
 We can load the 'fulladder' by doing :
 
 Shortcut : CTRL+O
+
 Type : fulladder
+
 Then click on "Ok"
 
 **FULLADDER**
