@@ -36,22 +36,23 @@ Screenshots :
 ![](https://github.com/KavishRAGHUBAR/Visualisateur_de_Netlist/blob/main/Screenshots/AND2.png)
 
 **OR2**
-![](https://hackmd.io/_uploads/SySWzy-Lh.png)
+![](https://github.com/KavishRAGHUBAR/Visualisateur_de_Netlist/blob/main/Screenshots/OR2.png)
 
 **XOR2**
-![](https://hackmd.io/_uploads/S1l7zJZ83.png)
+![](https://github.com/KavishRAGHUBAR/Visualisateur_de_Netlist/blob/main/Screenshots/XOR2.png)
 
 **PMOS**
-![](https://hackmd.io/_uploads/rJ7HzJWUh.png)
+![](https://github.com/KavishRAGHUBAR/Visualisateur_de_Netlist/blob/main/Screenshots/PMOS.png)
 
 **HALFADDER**
-![](https://hackmd.io/_uploads/SJ98GJZUn.png)
+![](https://github.com/KavishRAGHUBAR/Visualisateur_de_Netlist/blob/main/Screenshots/HALFADDER.png)
 
-On pourra charger le fulladder en faisant :
+We can load the 'fulladder' by doing :
 
 Shortcut : CTRL+O
-On écrit : fulladder
-Ensuite on click sur "Ok"
+Type : fulladder
+Then click on "Ok"
 
 **FULLADDER**
-![](https://hackmd.io/_uploads/Hy4OGkW82.png)
+![](https://github.com/KavishRAGHUBAR/Visualisateur_de_Netlist/blob/main/Screenshots/FULLADDER.png)
+
