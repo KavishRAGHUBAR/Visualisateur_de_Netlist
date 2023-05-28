@@ -195,7 +195,7 @@ Net* Net::fromXml ( Cell* C,xmlTextReaderPtr reader )
 
             const xmlChar* nodeName = xmlTextReaderConstLocalName( reader );//Trouver nodename par reader
             //cerr<<nodeName<<endl;
-            if ((nodeName == nodeTag)) //Si reader a trouve tag de node
+            if (nodeName == nodeTag) //Si reader a trouve tag de node
             {
                 if(Node::fromXml(net,reader))//Appeler la methode de fromxml dans node
                 {
@@ -203,7 +203,7 @@ Net* Net::fromXml ( Cell* C,xmlTextReaderPtr reader )
                 }
             }
 
-            else if ( (nodeName == lineTag) ) //Si reader a trouve le tag de line
+            else if ( nodeName == lineTag ) //Si reader a trouve le tag de line
             {
                 if(Line::fromXml(net,reader))//Appeler la methode de fromxml dans line
                 {
