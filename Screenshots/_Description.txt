@@ -1,2 +1,0 @@
-Here are some examples of what the app is supposed to do. 
-Basically it'll read the xml file and display the netlist accordingly.
