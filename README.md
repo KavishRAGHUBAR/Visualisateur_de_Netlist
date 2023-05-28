@@ -33,7 +33,7 @@ Basically the code/app will parse the XML files (electronic circuit), set up the
 
 Screenshots : 
 **AND2**
-![](https://hackmd.io/_uploads/S18C-1-I2.png)
+![](https://github.com/KavishRAGHUBAR/Visualisateur_de_Netlist/blob/main/Screenshots/AND2.png)
 
 **OR2**
 ![](https://hackmd.io/_uploads/SySWzy-Lh.png)
