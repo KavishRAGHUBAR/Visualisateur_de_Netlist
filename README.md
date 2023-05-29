@@ -13,7 +13,7 @@ Install QT5 :
 `sudo apt install qtbase5-dev`
 
 
-Use an alternative version of GCC :
+Use an alternative version of gcc (skip if you already have an up-to-date version of gcc) :
 
 `sudo apt install gcc-9 g++-9`
 
